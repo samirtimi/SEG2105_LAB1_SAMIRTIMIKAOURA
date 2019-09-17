@@ -1,2 +1,4 @@
 Samir Timi Kaoura
 stimi028@uottawa.ca
+
+I am in my local git repo.
